@@ -19,7 +19,7 @@
 .DS_Store
 *.pem
 README.md
-LOCENSE.md
+LICENSE.md
 yarn.lock
 
 # debug
